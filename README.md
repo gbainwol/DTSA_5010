@@ -1,10 +1,11 @@
 # DTSA_5010
 The repository for my final project. 
-Economic Growth Trends: A Clustering Approach
-Project Description
+
+## Economic Growth Trends: A Clustering Approach
+### Project Description
 This project offers a comprehensive analysis of the economic growth trends of countries around the world, utilizing data from the IMF World Economic Outlook. Through the application of advanced machine learning techniques, including K-Means and Hierarchical Clustering, countries are grouped based on similarities in their economic indicators. The project further employs a Random Forest Classifier to validate the robustness of the identified clusters.
 
-Objectives
+### Objectives
 Data Exploration and Preprocessing: Clean, preprocess, and explore the IMF World Economic Outlook data to prepare it for clustering algorithms.
 
 Clustering: Apply K-Means and Hierarchical Clustering algorithms to group countries based on their economic growth trends.
